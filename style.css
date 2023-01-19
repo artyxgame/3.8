@@ -1,0 +1,51 @@
+div {
+    background-color: bisque;
+}
+p.fondo {
+    background-color: aqua;
+    color: darkmagenta;
+    text-decoration: double;
+}
+p.mapa {
+    background-image: url();
+}
+h1 {
+    text-align: center;
+    color: maroon;
+}
+h2 {
+    text-align: center;
+    color: chartreuse;
+    background-color: crimson;
+}
+p {
+    color: brown;
+}
+div.1 {
+    position: relative;
+}
+p.cafe {
+    position: relative;
+    text-align: center;
+}
+p.contacto {
+    position: relative;
+    text-align: right;
+}
+p.carta1 {
+    position: relative;
+    left: 600px;
+}
+p.carta3 {
+    position: relative;
+    bottom: 250px;
+    left: 1000px;
+}
+p.cafe2 {
+    position: relative;
+    bottom: 200px;
+    left: 600px;
+}
+header {
+    background: scroll;
+}
